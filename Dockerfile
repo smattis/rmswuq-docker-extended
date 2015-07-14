@@ -1,4 +1,4 @@
-FROM smattis/rmswuq-docker:latest
+FROM smattis/rmswuq-docker
 MAINTAINER Steve Mattis
 
 # Install BET
